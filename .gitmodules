@@ -4,3 +4,6 @@
 [submodule "source"]
 	path = source
 	url = ./source
+[submodule "derivatives"]
+	path = derivatives
+	url = ./derivatives
